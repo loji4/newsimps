@@ -9,7 +9,7 @@
     background: #f9f9f9;
     border-left: 10px solid #ccc;
     margin: .5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
+    /* quotes: "\201C""\201D""\2018""\2019"; */
     padding: 10px 20px;
   }
   button:before {
@@ -20,6 +20,16 @@
     left: -10px;
     position: relative;
     top: 30px;
-    color: #9cf0e6;
+    /* color: #9cf0e6; */
     font-size: 3em;
   }
+
+  .btn {
+    text-decoration: none;
+    background-color:#FEFB1E;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+  }
+
+ 
