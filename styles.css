@@ -21,7 +21,19 @@
     position: relative;
     top: 30px;
     /* color: #9cf0e6; */
-    font-size: 3em;
+    font-size: 2em;
+  }
+
+    button:before {
+    content: open-quote;
+  /*   display: inline; */
+  /*   height: 0; */
+    line-height: 0;
+    left: -10px;
+    position: relative;
+    top: 30px;
+    /* color: #9cf0e6; */
+    font-size: 2em;
   }
 
   .btn {
